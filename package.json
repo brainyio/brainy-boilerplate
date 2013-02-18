@@ -1,0 +1,32 @@
+{
+
+  "name": "brainy-boilerplate",
+  "description": "a bare bones Backbone boilerplate using RequireJS",
+  "keywords": ["brainy", "backbone", "requirejs", "boilerplate"],
+
+  "version": "0.0.1",
+  "bin": {
+    "brainy-boilerplate": "./bin/config"
+  },
+
+  "dependencies": {
+    "express": "3.1.0",
+    "nconf": "0.6.7",
+    "requirejs": "2.1.4"
+  },
+
+  "engines": {
+    "node": ">=0.8.12"
+  },
+
+  "author": {
+    "name": "catshirt",
+    "email": "caden@catshirt.net"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brainyio/brainy-boilerplate"
+  }
+
+}
