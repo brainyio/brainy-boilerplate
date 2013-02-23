@@ -4,7 +4,7 @@
   "description": "a bare bones Backbone boilerplate using RequireJS",
   "keywords": ["brainy", "backbone", "requirejs", "boilerplate"],
 
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "brainy-boilerplate": "./bin/config"
   },
