@@ -1,0 +1,19 @@
+{
+
+  "name": "brainy-boilerplate",
+  "description": "a bare bones Backbone boilerplate using RequireJS",
+  "keywords": ["brainy", "boilerplate"],
+
+  "version": "0.0.1",
+
+  "author": {
+    "name": "catshirt",
+    "email": "caden@catshirt.net"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brainyio/brainy-sync-api"
+  }
+
+}
