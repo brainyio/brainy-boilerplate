@@ -1,10 +1,10 @@
 {
 
   "name": "brainy-boilerplate",
-  "description": "a bare bones Backbone boilerplate using RequireJS",
+  "description": "a client side boilerplate implementing Backbone and RequireJS",
   "keywords": ["brainy", "boilerplate"],
 
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "author": {
     "name": "catshirt",
